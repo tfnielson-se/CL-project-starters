@@ -21,6 +21,25 @@ https://docs.djangoproject.com/en/4.2/intro/tutorial01/
   
 ## Create App
 - $ python manage.py startapp <app_name>
+
+## App Interactive Shell
+- $ python manage.py shell
+
+## Database docs
+### DB Queries
+https://docs.djangoproject.com/en/4.2/topics/db/queries/
+### DB Setup
+https://docs.djangoproject.com/en/4.2/ref/settings/#databases
+### Migrations
+https://docs.djangoproject.com/en/4.2/topics/migrations/
+
+## Models
+https://docs.djangoproject.com/en/4.2/ref/models/instances/#django.db.models.Model
+
+## Views
+https://docs.djangoproject.com/en/4.2/topics/http/views/
+
+
   
 
  
