@@ -1,6 +1,9 @@
-# CL-project-starters-template
+# CL-project-starters
 
 ## Language: Python + Django
+### Docs:
+python: https://docs.python.org/3/ 
+django: https://www.djangoproject.com/
 
 ### language specific notes:
 Projects vs. apps
@@ -26,6 +29,7 @@ https://docs.djangoproject.com/en/4.2/intro/tutorial01/
 - $ python manage.py shell
 
 ## Database docs
+https://docs.djangoproject.com/en/4.2/ref/databases/
 ### DB Queries
 https://docs.djangoproject.com/en/4.2/topics/db/queries/
 ### DB Setup
@@ -35,9 +39,12 @@ https://docs.djangoproject.com/en/4.2/topics/migrations/
 
 ## Models
 https://docs.djangoproject.com/en/4.2/ref/models/instances/#django.db.models.Model
-
+### Auth
+https://docs.djangoproject.com/en/4.2/topics/auth/default/#topic-authorization
 ## Views
 https://docs.djangoproject.com/en/4.2/topics/http/views/
+
+## API
 
 
   
