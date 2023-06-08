@@ -22,15 +22,15 @@ Phoenix Framework
 
 - $ mix phx.new <my_site>
 - $ cd <my_site>
-run server:
+#### run server:
 - $ mix phx.server
-dependencies:
+#### dependencies:
 - $ mix deps.get
-- config db:
+#### config db:
 - $ mix ecto.create
 
 ## App Interactive Shell
-- $ 
+- $ iex
 
 ## Database docs
 url:
