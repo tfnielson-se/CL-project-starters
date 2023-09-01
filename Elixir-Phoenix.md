@@ -33,20 +33,20 @@ Phoenix Framework
 - $ iex
 
 ## Database docs
-url:
+url: https://hexdocs.pm/phoenix/ecto.html#content
 ### DB Queries
-url:
+url: https://hexdocs.pm/ecto/2.2.11/Ecto.Repo.html#content
 ### DB Setup
-url:
-### Migrations
-url:
+url: https://hexdocs.pm/ecto/api-reference.html#content
+### Validations
+url: https://hexdocs.pm/ecto/Ecto.Changeset.html#validations/1
 
-## Models
-url:
+## Models / Controller
+url: https://hexdocs.pm/phoenix/Phoenix.Controller.html
 ### Auth
-url:
+url: https://hexdocs.pm/argon2_elixir/Argon2.html#content / https://github.com/riverrun/comeonin/wiki/Hashing-passwords
 ## Views
-url:
+url: https://hexdocs.pm/phoenix_live_view/Phoenix.LiveView.html
 
 ## API
 url:
