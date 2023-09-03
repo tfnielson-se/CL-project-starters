@@ -30,9 +30,9 @@ Phoenix Framework
 - $ mix ecto.create
 
 ## App Interactive Shell
-- $ iex
+- $ iex -S mix
 
-## Database docs
+## Database management docs -> 'Ecto'
 url: https://hexdocs.pm/phoenix/ecto.html#content
 ### DB Queries
 url: https://hexdocs.pm/ecto/2.2.11/Ecto.Repo.html#content
@@ -40,6 +40,8 @@ url: https://hexdocs.pm/ecto/2.2.11/Ecto.Repo.html#content
 url: https://hexdocs.pm/ecto/api-reference.html#content
 ### Validations
 url: https://hexdocs.pm/ecto/Ecto.Changeset.html#validations/1
+### Relations
+url: 
 
 ## Models / Controller
 url: https://hexdocs.pm/phoenix/Phoenix.Controller.html
